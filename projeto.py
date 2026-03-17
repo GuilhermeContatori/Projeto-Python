@@ -27,7 +27,7 @@ pyautogui.click(x=632, y=467)
 #escrever seu email
 pyautogui.write("pythonimpressionador@gmail.com")
 pyautogui.press("tab")
-pyautogui.write("sua senha delicia")
+pyautogui.write("sua_senha_aqui")
 # Apertou tab , escreveu a senha 
 pyautogui.click(x=951, y=661)
 time.sleep(3)
